@@ -6,4 +6,5 @@ blue
 green
 red
 yellow
+hey
 color of the rainbow
